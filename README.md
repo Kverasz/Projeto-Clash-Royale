@@ -133,7 +133,7 @@ python main.py
 ## Estrutura do Código
 
 ```
-.py
+ProjetoClashRoyale.py
 ├── PrimeiraTela
 ├── SegundaTela
 ├── TerceiraTela
